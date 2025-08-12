@@ -74,14 +74,15 @@ function App() {
 
       <Header />
 
-      <div className={`animate-element ${isVisible ? 'fade-in' : ''}`}>
+      {/* <div className={`animate-element ${isVisible ? 'fade-in' : ''}`}>
         <div className='grid place-content-center text-8xl p-center'>
           <h1 className='text-slate-50'>SLINGSHORT.</h1>
           <h2 className='text-fuchsia-400'> Full stack web-developer</h2>
         </div>
-      </div>
+      </div> */}
 
       <div className={`animate-element ${isVisible ? 'fade-in' : ''}`}>
+        <div className='grid place-content-center p-center'>
         <div className='flex flex-row p-8'>
           <div className='profile-pic'>
             <img className='rounded-full' src={profile} alt='profile-pic' />
@@ -94,6 +95,7 @@ function App() {
             <p className='text-slate-50 text-xl'> I've also worked as a professional musician. In case you're interested, you can take a look at some of the work I've been involved in with <a className='inline-link' href='https://www.taikoz.com/'>Taikoz</a> or <a className='inline-link' href='https://www.drummerqueens.com/'>Drummer Queens</a>.</p>
             <button className='justify-self-start px-8 my-1 text-xl'><a href='#contact'>Let's connect!</a></button>
           </div>
+        </div>
         </div>
       </div>
 
