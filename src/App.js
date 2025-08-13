@@ -85,7 +85,7 @@ function App() {
         <div className='grid place-content-center p-center'>
         <div className='flex flex-row p-8'>
           <div className='profile-pic'>
-            <img className='rounded-full' src={profile} alt='profile-pic' />
+            <img className='rounded-full' src={profile} altp='profile-pic' />
           </div>
 
           <div className='place-content-center p-4'>
