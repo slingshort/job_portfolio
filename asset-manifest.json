@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/job_portfolio/static/css/main.96c37492.css",
+    "main.js": "/job_portfolio/static/js/main.5a4bac1b.js",
+    "static/js/787.f0ba9cbb.chunk.js": "/job_portfolio/static/js/787.f0ba9cbb.chunk.js",
+    "static/media/profile-picture.jpg": "/job_portfolio/static/media/profile-picture.7c0bc74696806a6923ee.jpg",
+    "static/media/my-first-project.png": "/job_portfolio/static/media/my-first-project.4bc6de9b7b894663f647.png",
+    "static/media/weather-dashboard.png": "/job_portfolio/static/media/weather-dashboard.6edc23c67b2707c05dd9.png",
+    "static/media/bootcamp-bar.jpg": "/job_portfolio/static/media/bootcamp-bar.fef20e5275a6370794e0.jpg",
+    "static/media/work-day-scheduler.png": "/job_portfolio/static/media/work-day-scheduler.773285dcc4ba124e47bf.png",
+    "static/media/Salina_resume.pdf": "/job_portfolio/static/media/Salina_resume.c8899ade6b472c33ad3a.pdf",
+    "static/media/holiday-discoverer.jpg": "/job_portfolio/static/media/holiday-discoverer.480d727a0f2a59b59989.jpg",
+    "index.html": "/job_portfolio/index.html",
+    "main.96c37492.css.map": "/job_portfolio/static/css/main.96c37492.css.map",
+    "main.5a4bac1b.js.map": "/job_portfolio/static/js/main.5a4bac1b.js.map",
+    "787.f0ba9cbb.chunk.js.map": "/job_portfolio/static/js/787.f0ba9cbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96c37492.css",
+    "static/js/main.5a4bac1b.js"
+  ]
+}
